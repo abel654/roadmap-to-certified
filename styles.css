@@ -18,7 +18,6 @@ body {
   padding: 2rem;
   font-family: "Poppins", sans-serif;
   color: var(--color);
-  background: var(--bgColor);
 }
 
 h1 {
@@ -193,3 +192,4 @@ ul li .descr::before {
 .credits a {
   color: var(--color);
 }
+
